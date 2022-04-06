@@ -1,0 +1,115 @@
+html {
+    font-size: 1em;
+    font-family: Arial, Sans-serif;
+}
+
+header {
+    margin-top: .25em;
+}
+
+nav li {
+    display: inline-block;
+    padding: .25em 1em .25em 1em;
+    border-right: solid 1px #000000;
+}
+
+a {
+    text-decoration: none;
+}
+
+a:hover, a:focus {
+    color: blue;
+    text-decoration: none;
+}
+
+ul {
+    list-style-type: none;
+}
+
+p {
+    padding-left: .5em;
+}
+
+form {
+    width: 700px;
+    padding-bottom: 1em;
+}
+
+fieldset {
+    border-radius: 15px;
+}
+
+label, input, select {
+    float: left;
+    text-align: right;
+    margin: .25em .5em .25em .5em;
+}
+
+option {
+    text-align: left;
+}
+
+table {
+    margin: .25em .5em .25em .5em;
+}
+
+tr {
+    padding: .25em .5em .25em .5em; 
+}
+
+td {
+    padding-right: 1em;
+}
+
+footer {
+    font-size: 90%;
+    margin-top: .5em;
+    padding-top: 1em;
+}
+
+.show {
+    display: block;
+}
+
+.hide {
+    display: none;
+}
+
+.row::after {
+    content: "";
+    clear: both;
+    display: table;
+}
+
+.col-1 {width: 8.33%;}
+.col-2 {width: 16.66%;}
+.col-3 {width: 25%;}
+.col-4 {width: 33.33%;}
+.col-5 {width: 41.66%;}
+.col-6 {width: 50%;}
+.col-7 {width: 58.33%;}
+.col-8 {width: 66.66%;}
+.col-9 {width: 75%;}
+.col-10 {width: 83.33%;}
+.col-11 {width: 91.66%;}
+.col-12 {width: 100%;}
+
+#login {
+    margin-top: 1em;
+}
+
+#registerForm, #loginForm, #resetPwForm {
+    width: 600px;
+}
+
+#a-resetPw {
+    margin-left: .5em;
+    font-size: 90%;
+}
+
+.error {
+    color: red;
+}
+
+#ad-container {height:250px;width:300px;}
+#ad-container img {border:0;}
