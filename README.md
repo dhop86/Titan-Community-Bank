@@ -12,7 +12,7 @@ webpages that utilize those concepts.
 
 1. Index.html
 2. Common folder
-  ⋅⋅* prequalify.html
+* prequalify.html
 ⋅⋅* registration.html
 ⋅⋅* login.html
 ⋅⋅* myaccount.html
