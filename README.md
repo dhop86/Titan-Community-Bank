@@ -12,11 +12,11 @@ webpages that utilize those concepts.
 
 1. Index.html
 2. Common folder
-..1 prequalify.html
-..2 registration.html
-..3 login.html
-..4 myaccount.html
-..5 resetpassword.html
+⋅⋅* prequalify.html
+⋅⋅* registration.html
+⋅⋅* login.html
+⋅⋅* myaccount.html
+⋅⋅* resetpassword.html
 3. JS folder
 ..1 rotator.js
 ..2 prequalify.js
