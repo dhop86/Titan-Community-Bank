@@ -12,25 +12,25 @@ webpages that utilize those concepts.
 
 1. Index.html
 2. Common folder
-⋅⋅* prequalify.html
+  ⋅⋅* prequalify.html
 ⋅⋅* registration.html
 ⋅⋅* login.html
 ⋅⋅* myaccount.html
 ⋅⋅* resetpassword.html
 3. JS folder
-..1 rotator.js
-..2 prequalify.js
-..3 registration.js
-..4 login.js
-..5 resetpassword.js
+⋅⋅* rotator.js
+⋅⋅* prequalify.js
+⋅⋅* registration.js
+⋅⋅* login.js
+⋅⋅* resetpassword.js
 4. CSS folder
-..1 tbc.css
+⋅⋅* tbc.css
 5. IMG folder
-..1 favicon.png
-..2 benjamins.jpg
-..3 creditcards.jpg
-..4 dollarbill.jpg
-..5 growmoney.jpg
+⋅⋅* favicon.png
+⋅⋅* benjamins.jpg
+⋅⋅* creditcards.jpg
+⋅⋅* dollarbill.jpg
+⋅⋅* growmoney.jpg
 
 ---
 
