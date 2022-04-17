@@ -7,7 +7,7 @@ let login = function() {
     let isValid = true;
     let email = $('email').value;
     let password = $('password').value;
-    let key = (localStorage.getItem("\"" + email + "\"") !== null) ? localStorage.getItem("\"" + email + "\"") : null;
+    let key = (localStorage.getItem(email) !== null) ? localStorage.getItem(email) : null;
     let user = (JSON.parse(key) !== null) ? JSON.parse(key) : null;
 
     if (key === null || user === null) {

@@ -42,7 +42,7 @@ let validateRegistration = function() {
     if (isValid) {
         $('register-a').href = 'login.html';
         let User = new UserProfile(email, password1);
-        window.localStorage.setItem(JSON.stringify(User.email), JSON.stringify(User));
+        window.localStorage.setItem(User.email, JSON.stringify(User));
     } else {
         addErrorMessages(email, password1, password2, required, noMatch);
     }
