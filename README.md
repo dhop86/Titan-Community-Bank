@@ -1,6 +1,7 @@
 # Titan-Community-Bank
 
 Titan Community Bank is a ficticious bank.
+
 This is a project for my Client-Side JavaScript class.
 Each week of the class is teaching new JavaScript concepts,
 and each week those concepts are being put into use by creating new
